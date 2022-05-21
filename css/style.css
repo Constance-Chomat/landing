@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Akshar");
+
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro");
+
+@import url("components/container.css");
+
+@import url("components/picture.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/Card1.css");
+
+body{
+	font-family: Source Serif Pro, serif;
+	font-size: 18px;
+	background-color:#EEB0B0 ;
+	color:#7D1E6A ;
+	margin: 0px;
+}
+
+h1{
+	font-family: Ashkar, sans-serif;
+	color:#BDE6F1;
+
+}
+
+h2{
+	font-weight: 700;
+	color: #BA5624;
+}
+a{
+	text-decoration: none;
+}
+#endp-margin{
+	margin-bottom: 40px;
+}
+
+.Summary{
+	background-color:#FFE59D ;
+	padding: 20px;
+	margin: 10px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, .2);
+	border-radius: 6px;
+	text-align: center;
+}
