@@ -1,0 +1,15 @@
+.btn-yellow{
+	background-color:#FFE59D ;
+	padding: 15px 20px;
+	border-radius: 6px;
+	color: #BA5624;
+	font-weight: bold;
+	font-family: Ashkar, sans-serif;
+	margin-bottom: 40px;
+
+}
+.btn-yellow:hover {
+	background-color: #BA5624;
+	color: #FFE59D;
+
+}
